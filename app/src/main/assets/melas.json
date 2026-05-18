@@ -1,0 +1,184 @@
+{
+  "melas": [
+    {
+      "id": "mela_001",
+      "name": "Idagunji Mahaganapathi Yakshagana Mandali",
+      "district": "Uttara Kannada",
+      "founded_year": 1928,
+      "style": "Tenkutittu",
+      "manager_name": "Prakash Hegde",
+      "contact_phone": "+91-94480-XXXXX",
+      "contact_email": "idagunji.mela@yakshaganaloka.in",
+      "home_base": "Idagunji, Kumta Taluk",
+      "latitude": 14.4298,
+      "longitude": 74.4107,
+      "logo_url": "https://storage.googleapis.com/yakshagana-loka/melas/mela_001/logo.png",
+      "description": "One of the oldest and most respected Melas in coastal Karnataka, known for its disciplined training tradition.",
+      "artist_ids": [
+        "artist_001"
+      ]
+    },
+    {
+      "id": "mela_002",
+      "name": "Kateel Durgaparameshwari Yakshagana Mela",
+      "district": "Dakshina Kannada",
+      "founded_year": 1952,
+      "style": "Tenkutittu",
+      "manager_name": "Suresh Poojary",
+      "contact_phone": "+91-98860-XXXXX",
+      "contact_email": "kateel.mela@yakshaganaloka.in",
+      "home_base": "Kateel, Mangaluru",
+      "latitude": 13.0102,
+      "longitude": 74.9936,
+      "logo_url": "https://storage.googleapis.com/yakshagana-loka/melas/mela_002/logo.png",
+      "description": "A Mela deeply connected to the Kateel Durgaparameshwari temple, performing exclusively for devotional events.",
+      "artist_ids": [
+        "artist_002"
+      ]
+    },
+    {
+      "id": "mela_003",
+      "name": "Sri Guru Narasimha Kruposhitha Yakshagana Mandali",
+      "district": "Udupi",
+      "founded_year": 1970,
+      "style": "Badagutittu",
+      "manager_name": "Kishan Rao",
+      "contact_phone": "+91-94481-XXXXX",
+      "contact_email": "saligrama.mela@yakshaganaloka.in",
+      "home_base": "Saligrama",
+      "latitude": 13.5042,
+      "longitude": 74.7061,
+      "logo_url": "https://storage.googleapis.com/yakshagana-loka/melas/mela_003/logo.png",
+      "description": "Popularly known as the Saligrama Mela, it is renowned for its commercial success and captivating stage presentations.",
+      "artist_ids": [
+        "artist_003"
+      ]
+    },
+    {
+      "id": "mela_004",
+      "name": "Sri Manjunatheshwara Yakshagana Mandali",
+      "district": "Dakshina Kannada",
+      "founded_year": 1905,
+      "style": "Tenkutittu",
+      "manager_name": "Ramachandra Bhat",
+      "contact_phone": "+91-99002-XXXXX",
+      "contact_email": "dharmasthala.mela@yakshaganaloka.in",
+      "home_base": "Dharmasthala",
+      "latitude": 12.9515,
+      "longitude": 75.3792,
+      "logo_url": "https://storage.googleapis.com/yakshagana-loka/melas/mela_004/logo.png",
+      "description": "Backed by the famous Dharmasthala temple, this Mela is celebrated for strictly adhering to traditional performance structures.",
+      "artist_ids": [
+        "artist_004"
+      ]
+    },
+    {
+      "id": "mela_005",
+      "name": "Sri Durgaparameshwari Yakshagana Mandali",
+      "district": "Udupi",
+      "founded_year": 1955,
+      "style": "Badagutittu",
+      "manager_name": "Narayana Shetty",
+      "contact_phone": "+91-98450-XXXXX",
+      "contact_email": "mandarthi.mela@yakshaganaloka.in",
+      "home_base": "Mandarthi",
+      "latitude": 13.5240,
+      "longitude": 74.8055,
+      "logo_url": "https://storage.googleapis.com/yakshagana-loka/melas/mela_005/logo.png",
+      "description": "Operating multiple troupes simultaneously due to immense demand, this Mela is a powerhouse in the Badagutittu style.",
+      "artist_ids": [
+        "artist_005"
+      ]
+    },
+    {
+      "id": "mela_006",
+      "name": "Sri Ananthapadmanabha Yakshagana Mandali",
+      "district": "Udupi",
+      "founded_year": 1945,
+      "style": "Badagutittu",
+      "manager_name": "Anantha Upadhya",
+      "contact_phone": "+91-94483-XXXXX",
+      "contact_email": "perdoor.mela@yakshaganaloka.in",
+      "home_base": "Perdoor",
+      "latitude": 13.3850,
+      "longitude": 74.9200,
+      "logo_url": "https://storage.googleapis.com/yakshagana-loka/melas/mela_006/logo.png",
+      "description": "A well-established Mela from Perdoor known for bringing innovative mythological interpretations to the stage.",
+      "artist_ids": [
+        "artist_006"
+      ]
+    },
+    {
+      "id": "mela_007",
+      "name": "Bappanadu Sri Durgaparameshwari Yakshagana Mandali",
+      "district": "Dakshina Kannada",
+      "founded_year": 1968,
+      "style": "Tenkutittu",
+      "manager_name": "Vasantha Kumar",
+      "contact_phone": "+91-99801-XXXXX",
+      "contact_email": "bappanadu.mela@yakshaganaloka.in",
+      "home_base": "Mulki",
+      "latitude": 13.0833,
+      "longitude": 74.7833,
+      "logo_url": "https://storage.googleapis.com/yakshagana-loka/melas/mela_007/logo.png",
+      "description": "Associated with the historic Bappanadu temple, recognized for its vibrant costumes and energetic rhythmic dance sequences.",
+      "artist_ids": [
+        "artist_007"
+      ]
+    },
+    {
+      "id": "mela_008",
+      "name": "Sri Veerabhadra Yakshagana Mandali",
+      "district": "Udupi",
+      "founded_year": 1935,
+      "style": "Badagutittu",
+      "manager_name": "Raghavendra Prabhu",
+      "contact_phone": "+91-94800-XXXXX",
+      "contact_email": "hiriadka.mela@yakshaganaloka.in",
+      "home_base": "Hiriadka",
+      "latitude": 13.3167,
+      "longitude": 74.8667,
+      "logo_url": "https://storage.googleapis.com/yakshagana-loka/melas/mela_008/logo.png",
+      "description": "One of the older Badagutittu troupes that has maintained a high standard of classical Yakshagana literature and dialogue delivery.",
+      "artist_ids": [
+        "artist_008"
+      ]
+    },
+    {
+      "id": "mela_009",
+      "name": "Sri Brahmi Durgaparameshwari Yakshagana Mandali",
+      "district": "Udupi",
+      "founded_year": 1962,
+      "style": "Badagutittu",
+      "manager_name": "Chandrashekar Navada",
+      "contact_phone": "+91-97411-XXXXX",
+      "contact_email": "kamalashile.mela@yakshaganaloka.in",
+      "home_base": "Kamalashile",
+      "latitude": 13.6833,
+      "longitude": 74.8667,
+      "logo_url": "https://storage.googleapis.com/yakshagana-loka/melas/mela_009/logo.png",
+      "description": "Famous for performing Harake (vow) shows for devotees of the Kamalashile temple, featuring rich musical traditions.",
+      "artist_ids": [
+        "artist_009"
+      ]
+    },
+    {
+      "id": "mela_010",
+      "name": "Sri Panchalingeshwara Yakshagana Mandali",
+      "district": "Dakshina Kannada",
+      "founded_year": 1978,
+      "style": "Tenkutittu",
+      "manager_name": "Devadas Shetty",
+      "contact_phone": "+91-96322-XXXXX",
+      "contact_email": "surathkal.mela@yakshaganaloka.in",
+      "home_base": "Surathkal",
+      "latitude": 13.0033,
+      "longitude": 74.7946,
+      "logo_url": "https://storage.googleapis.com/yakshagana-loka/melas/mela_010/logo.png",
+      "description": "A prominent Mela in the coastal belt combining traditional Tenkutittu forms with fast-paced modern storytelling techniques.",
+      "artist_ids": [
+        "artist_010"
+      ]
+    }
+  ]
+}

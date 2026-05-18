@@ -1,0 +1,214 @@
+{
+  "performance_events": [
+    {
+      "id": "event_001",
+      "mela_id": "mela_001",
+      "mela_name": "Idagunji Mahaganapathi Yakshagana Mandali",
+      "venue_name": "Sri Mahaganapathi Temple Grounds",
+      "address": "Idagunji, Kumta Taluk",
+      "district": "Uttara Kannada",
+      "event_date": "2025-11-14",
+      "start_time": "9:00 PM",
+      "end_time": "5:00 AM",
+      "main_story": "Kurukshetra",
+      "artist_ids": [
+        "artist_001"
+      ],
+      "entry_free": true,
+      "ticket_price_inr": 0,
+      "latitude": 14.4298,
+      "longitude": 74.4107,
+      "poster_image_url": "https://storage.googleapis.com/yakshagana-loka/events/event_001/poster.jpg",
+      "special_notes": "Annual temple festival performance. All-night show."
+    },
+    {
+      "id": "event_002",
+      "mela_id": "mela_002",
+      "mela_name": "Kateel Durgaparameshwari Yakshagana Mela",
+      "venue_name": "Kateel Temple Open Stage",
+      "address": "Kateel, Mangaluru",
+      "district": "Dakshina Kannada",
+      "event_date": "2025-11-14",
+      "start_time": "8:00 PM",
+      "end_time": "4:00 AM",
+      "main_story": "Pattabhisheka",
+      "artist_ids": [
+        "artist_002"
+      ],
+      "entry_free": true,
+      "ticket_price_inr": 0,
+      "latitude": 13.0102,
+      "longitude": 74.9936,
+      "poster_image_url": "https://storage.googleapis.com/yakshagana-loka/events/event_002/poster.jpg",
+      "special_notes": "Harake Seve (Vow fulfillment performance)."
+    },
+    {
+      "id": "event_003",
+      "mela_id": "mela_003",
+      "mela_name": "Sri Guru Narasimha Kruposhitha Yakshagana Mandali",
+      "venue_name": "Saligrama Town Hall",
+      "address": "Main Road, Saligrama",
+      "district": "Udupi",
+      "event_date": "2025-11-15",
+      "start_time": "7:00 PM",
+      "end_time": "12:00 AM",
+      "main_story": "Sudhanva Moksha",
+      "artist_ids": [
+        "artist_003"
+      ],
+      "entry_free": false,
+      "ticket_price_inr": 150,
+      "latitude": 13.5042,
+      "longitude": 74.7061,
+      "poster_image_url": "https://storage.googleapis.com/yakshagana-loka/events/event_003/poster.jpg",
+      "special_notes": "Short duration performance. Ticket includes seating."
+    },
+    {
+      "id": "event_004",
+      "mela_id": "mela_004",
+      "mela_name": "Sri Manjunatheshwara Yakshagana Mandali",
+      "venue_name": "Amruthavarshini Sabha Bhavana",
+      "address": "Dharmasthala",
+      "district": "Dakshina Kannada",
+      "event_date": "2025-11-16",
+      "start_time": "8:30 PM",
+      "end_time": "5:30 AM",
+      "main_story": "Sri Rama Pattabhisheka",
+      "artist_ids": [
+        "artist_004"
+      ],
+      "entry_free": true,
+      "ticket_price_inr": 0,
+      "latitude": 12.9515,
+      "longitude": 75.3792,
+      "poster_image_url": "https://storage.googleapis.com/yakshagana-loka/events/event_004/poster.jpg",
+      "special_notes": "Lakshadeepotsava special performance."
+    },
+    {
+      "id": "event_005",
+      "mela_id": "mela_005",
+      "mela_name": "Sri Durgaparameshwari Yakshagana Mandali",
+      "venue_name": "Mandarthi Temple Maidan",
+      "address": "Mandarthi",
+      "district": "Udupi",
+      "event_date": "2025-11-18",
+      "start_time": "9:00 PM",
+      "end_time": "6:00 AM",
+      "main_story": "Bheeshma Parva",
+      "artist_ids": [
+        "artist_005"
+      ],
+      "entry_free": true,
+      "ticket_price_inr": 0,
+      "latitude": 13.5240,
+      "longitude": 74.8055,
+      "poster_image_url": "https://storage.googleapis.com/yakshagana-loka/events/event_005/poster.jpg",
+      "special_notes": "Troupe A performing. Heavy crowd expected."
+    },
+    {
+      "id": "event_006",
+      "mela_id": "mela_006",
+      "mela_name": "Sri Ananthapadmanabha Yakshagana Mandali",
+      "venue_name": "Perdoor Car Street",
+      "address": "Perdoor",
+      "district": "Udupi",
+      "event_date": "2025-11-20",
+      "start_time": "8:00 PM",
+      "end_time": "3:00 AM",
+      "main_story": "Chakravyuha",
+      "artist_ids": [
+        "artist_006"
+      ],
+      "entry_free": true,
+      "ticket_price_inr": 0,
+      "latitude": 13.3850,
+      "longitude": 74.9200,
+      "poster_image_url": "https://storage.googleapis.com/yakshagana-loka/events/event_006/poster.jpg",
+      "special_notes": "Local village festivity."
+    },
+    {
+      "id": "event_007",
+      "mela_id": "mela_007",
+      "mela_name": "Bappanadu Sri Durgaparameshwari Yakshagana Mandali",
+      "venue_name": "Bappanadu Temple Premises",
+      "address": "Mulki",
+      "district": "Dakshina Kannada",
+      "event_date": "2025-11-22",
+      "start_time": "9:30 PM",
+      "end_time": "6:00 AM",
+      "main_story": "Devi Mahathme",
+      "artist_ids": [
+        "artist_007"
+      ],
+      "entry_free": true,
+      "ticket_price_inr": 0,
+      "latitude": 13.0833,
+      "longitude": 74.7833,
+      "poster_image_url": "https://storage.googleapis.com/yakshagana-loka/events/event_007/poster.jpg",
+      "special_notes": "A signature Prasanga of the Bappanadu Mela."
+    },
+    {
+      "id": "event_008",
+      "mela_id": "mela_008",
+      "mela_name": "Sri Veerabhadra Yakshagana Mandali",
+      "venue_name": "Hiriadka Ground",
+      "address": "Hiriadka",
+      "district": "Udupi",
+      "event_date": "2025-11-24",
+      "start_time": "7:30 PM",
+      "end_time": "12:30 AM",
+      "main_story": "Kamsa Vadhe",
+      "artist_ids": [
+        "artist_008"
+      ],
+      "entry_free": false,
+      "ticket_price_inr": 100,
+      "latitude": 13.3167,
+      "longitude": 74.8667,
+      "poster_image_url": "https://storage.googleapis.com/yakshagana-loka/events/event_008/poster.jpg",
+      "special_notes": "Sponsored tent performance (Kooduvalli)."
+    },
+    {
+      "id": "event_009",
+      "mela_id": "mela_009",
+      "mela_name": "Sri Brahmi Durgaparameshwari Yakshagana Mandali",
+      "venue_name": "Kamalashile Temple Ranga Mantapa",
+      "address": "Kamalashile",
+      "district": "Udupi",
+      "event_date": "2025-11-25",
+      "start_time": "8:30 PM",
+      "end_time": "4:30 AM",
+      "main_story": "Dakshadwara",
+      "artist_ids": [
+        "artist_009"
+      ],
+      "entry_free": true,
+      "ticket_price_inr": 0,
+      "latitude": 13.6833,
+      "longitude": 74.8667,
+      "poster_image_url": "https://storage.googleapis.com/yakshagana-loka/events/event_009/poster.jpg",
+      "special_notes": "Devotional offering performance."
+    },
+    {
+      "id": "event_010",
+      "mela_id": "mela_010",
+      "mela_name": "Sri Panchalingeshwara Yakshagana Mandali",
+      "venue_name": "Surathkal Vidyadayinee School Ground",
+      "address": "Surathkal",
+      "district": "Dakshina Kannada",
+      "event_date": "2025-11-28",
+      "start_time": "6:30 PM",
+      "end_time": "11:30 PM",
+      "main_story": "Narakasura Vadhe",
+      "artist_ids": [
+        "artist_010"
+      ],
+      "entry_free": false,
+      "ticket_price_inr": 200,
+      "latitude": 13.0033,
+      "longitude": 74.7946,
+      "poster_image_url": "https://storage.googleapis.com/yakshagana-loka/events/event_010/poster.jpg",
+      "special_notes": "Time-bound modern format performance. VIP seating available."
+    }
+  ]
+}

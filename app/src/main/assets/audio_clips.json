@@ -1,0 +1,150 @@
+{
+  "audio_clips": [
+    {
+      "id": "clip_001",
+      "title_english": "Remembering Keremane Shivarama Heggade",
+      "title_kannada": "ಕೆರೆಮನೆ ಶಿವರಾಮ ಹೆಗಡೆ 'ನೆನಪಿನ ರಂಗಸ್ಥಳ'",
+      "artist_name": "Keremane Shivarama Hegde",
+      "artist_id": "artist_001",
+      "category": "Remembering Legends",
+      "prasanga": "ಲಂಕಾದಹನ",
+      "duration_seconds": 187,
+      "audio_url": "file:///android_asset/Audio/clip_001.mp3",
+      "thumbnail_url": "https://storage.googleapis.com/yakshagana-loka/audio/clip_001_thumb.jpg",
+      "tags": [
+        "Karna",
+        "Kurukshetra",
+        "Dialogue",
+        "Tenkutittu",
+        "Classical",
+        "Melody"
+      ]
+    },
+    {
+      "id": "clip_002",
+      "title_english": "Shimshupa Maradadiye Kulithu",
+      "title_kannada": "ಶಿಂಶುಪ ಮರದಡಿಯೇ ಕುಳಿತೆ",
+      "artist_name": "Keremane Shivarama Hegde",
+      "artist_id": "artist_001",
+      "category": "Remembering Legends",
+      "prasanga": "Generic Opening",
+      "duration_seconds": 243,
+      "audio_url": "file:///android_asset/Audio/clip_002.mp3",
+      "thumbnail_url": "https://storage.googleapis.com/yakshagana-loka/audio/clip_002_thumb.jpg",
+      "tags": [
+        "Invocation",
+        "Bhagavata",
+        "Classical",
+        "Opening"
+      ]
+    },
+    {
+      "id": "clip_003",
+      "title_english": "Duryodhana and Bheema face to face",
+      "title_kannada": "ದುರ್ಯೋಧನ ಮತ್ತು ಭೀಮ ಮುಖಾಮುಖಿ",
+      "artist_name": "Chittani Ramachandra Hegde",
+      "artist_id": "artist_002",
+      "category": "Remembering Legends",
+      "prasanga": "Gadhayuddha",
+      "duration_seconds": 134,
+      "audio_url": "file:///android_asset/Audio/clip_003.mp3",
+      "thumbnail_url": "https://storage.googleapis.com/yakshagana-loka/audio/clip_003_thumb.jpg",
+      "tags": [
+        "Duryodhana",
+        "War",
+        "Dialogue",
+        "Kurukshetra"
+      ]
+    },
+    {
+      "id": "clip_004",
+      "title_english": "Krishna and Rukmini: A Divine Dialogue",
+      "title_kannada": "ಹೀಗೆ ಪೇಳುವರೆ ಸಖಿ ಚಂದಿರಮುಖಿ",
+      "artist_name": "Kalinga Navada",
+      "artist_id": "artist_003",
+      "category": "Remembering Legends",
+      "prasanga": "Krishna Rukmini",
+      "duration_seconds": 310,
+      "audio_url": "file:///android_asset/Audio/clip_004.mp3",
+      "thumbnail_url": "https://storage.googleapis.com/yakshagana-loka/audio/clip_004_thumb.jpg",
+      "tags": [
+        "Krishna",
+        "Bhagavata",
+        "Badagutittu",
+        "Melody"
+      ]
+    },
+    {
+      "id": "clip_005",
+      "title_english": "Fierce Chende Solo",
+      "title_kannada": "ಚೆಂಡೆ ಜುಗಲ್ಬಂದಿ",
+      "artist_name": "Nedle Narasimha Bhat",
+      "artist_id": "artist_004",
+      "category": "Instrumental",
+      "prasanga": "Instrumental Showcase",
+      "duration_seconds": 245,
+      "audio_url": "file:///android_asset/Audio/clip_005.mp3",
+      "thumbnail_url": "https://storage.googleapis.com/yakshagana-loka/audio/clip_005_thumb.jpg",
+      "tags": [
+        "Chende",
+        "Instrumental",
+        "Beats",
+        "Percussion"
+      ]
+    },
+    {
+      "id": "clip_007",
+      "title_english": "Abhimanyu's Bravery",
+      "title_kannada": "ಅಭಿಮನ್ಯುವಿನ ಶೌರ್ಯ",
+      "artist_name": "Mantapa Prabhakara Upadhya",
+      "artist_id": "artist_006",
+      "category": "Famous Dialogues",
+      "prasanga": "Abhimanyu Kalaga",
+      "duration_seconds": 150,
+      "audio_url": "file:///android_asset/Audio/clip_007.mp3",
+      "thumbnail_url": "https://storage.googleapis.com/yakshagana-loka/audio/clip_007_thumb.jpg",
+      "tags": [
+        "Abhimanyu",
+        "Chakravyuha",
+        "Dialogue",
+        "Bravery"
+      ]
+    },
+    {
+      "id": "clip_009",
+      "title_english": "Bheema's Oath of Vengeance",
+      "title_kannada": "ಭೀಮನ ಪ್ರತಿಜ್ಞೆ",
+      "artist_name": "Kondadakuli Ramachandra Hegde",
+      "artist_id": "artist_008",
+      "category": "Famous Dialogues",
+      "prasanga": "Gadayuddha",
+      "duration_seconds": 210,
+      "audio_url": "file:///android_asset/Audio/clip_009.mp3",
+      "thumbnail_url": "https://storage.googleapis.com/yakshagana-loka/audio/clip_009_thumb.jpg",
+      "tags": [
+        "Bheema",
+        "Oath",
+        "Gadayuddha",
+        "Badagutittu"
+      ]
+    },
+    {
+      "id": "clip_010",
+      "title_english": "Classical Maddale Rhythm",
+      "title_kannada": "ಮದ್ದಳೆ ನಾದ",
+      "artist_name": "Kavanur Ramachandra Rao",
+      "artist_id": "artist_009",
+      "category": "Instrumental",
+      "prasanga": "Instrumental Showcase",
+      "duration_seconds": 180,
+      "audio_url": "file:///android_asset/Audio/clip_010.mp3",
+      "thumbnail_url": "https://storage.googleapis.com/yakshagana-loka/audio/clip_010_thumb.jpg",
+      "tags": [
+        "Maddale",
+        "Instrumental",
+        "Rhythm",
+        "Classical"
+      ]
+    }
+  ]
+}

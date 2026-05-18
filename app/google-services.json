@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645164727132",
+    "project_id": "yakshganaloka",
+    "storage_bucket": "yakshganaloka.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645164727132:android:15909488aa28f3a1a95f99",
+        "android_client_info": {
+          "package_name": "com.example.yakshaganaloka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL-n2C8UNChn6DaBZBBmbZb25iqubsLlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

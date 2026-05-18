@@ -1,0 +1,210 @@
+{
+  "artists": [
+    {
+      "id": "artist_001",
+      "name_kannada": "ಕೆರೆಮನೆ ಶಿವರಾಮ ಹೆಗಡೆ",
+      "name_english": "Keremane Shivarama Hegde",
+      "specialization": "Badagutittu Yakshagana Artist",
+      "district": "Uttara Kannada",
+      "years_active": 55,
+      "is_legendary": true,
+      "birth_year": 1908,
+      "death_year": 2009,
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/placeholder.png",
+      "bio_english": "Founder of the famous Idagunji Mahaganapati Yakshagana Mandali and one of the greatest exponents of the Badagutittu style.",
+      "bio_kannada": "ಇಡಗುಂಜಿ ಮಹಾಗಣಪತಿ ಯಕ್ಷಗಾನ ಮಂಡಳಿಯ ಸ್ಥಾಪಕರು ಮತ್ತು ಬಡಗುತಿಟ್ಟು ಶೈಲಿಯ ಶ್ರೇಷ್ಠ ಕಲಾವಿದರಲ್ಲಿ ಒಬ್ಬರು.",
+      "mela_id": "mela_001",
+      "vesha_ids": ["vesha_001", "vesha_002", "vesha_003"],
+      "awards": ["Rashtrapati Award", "Sangeet Natak Akademi Award"],
+      "reference_links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Keremane_Shivarama_Hegde",
+        "mela_website": "https://simym.org",
+        "youtube": "https://www.youtube.com/c/TheIdagunjiMela/videos"
+      }
+    },
+    {
+      "id": "artist_002",
+      "name_kannada": "ಚಿಟ್ಟಾಣಿ ರಾಮಚಂದ್ರ ಹೆಗಡೆ",
+      "name_english": "Chittani Ramachandra Hegde",
+      "specialization": "Himmela & Character Roles",
+      "district": "Uttara Kannada",
+      "years_active": 68,
+      "is_legendary": true,
+      "birth_year": 1933,
+      "death_year": 2017,
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/placeholder.png",
+      "bio_english": "Widely regarded as the king of Yakshagana stage performance and the first Yakshagana artist to receive the Padma Shri award.",
+      "bio_kannada": "ಪದ್ಮಶ್ರೀ ಪ್ರಶಸ್ತಿ ಪಡೆದ ಮೊದಲ ಯಕ್ಷಗಾನ ಕಲಾವಿದ ಮತ್ತು ಯಕ್ಷಗಾನ ವೇದಿಕೆಯ ಮಹಾನ್ ನಟ.",
+      "mela_id": "mela_002",
+      "vesha_ids": ["vesha_004", "vesha_005"],
+      "awards": ["Padma Shri", "Karnataka Rajyotsava Award"],
+      "reference_links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Chittani_Ramachandra_Hegde",
+        "youtube": "https://www.youtube.com/results?search_query=Chittani+Ramachandra+Hegde"
+      }
+    },
+    {
+      "id": "artist_003",
+      "name_kannada": "ಕೆರೆಮನೆ ಶಂಭು ಹೆಗಡೆ",
+      "name_english": "Keremane Shambhu Hegde",
+      "specialization": "Yakshagana Actor & Director",
+      "district": "Uttara Kannada",
+      "years_active": 45,
+      "is_legendary": true,
+      "birth_year": 1938,
+      "death_year": 2012,
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/placeholder.png",
+      "bio_english": "A celebrated Yakshagana artist known for preserving the traditional Badagutittu style and taking Yakshagana to international audiences.",
+      "bio_kannada": "ಸಾಂಪ್ರದಾಯಿಕ ಬಡಗುತಿಟ್ಟು ಶೈಲಿಯನ್ನು ಉಳಿಸಿ ವಿಶ್ವ ಮಟ್ಟಕ್ಕೆ ಯಕ್ಷಗಾನವನ್ನು ಕೊಂಡೊಯ್ದ ಕಲಾವಿದ.",
+      "mela_id": "mela_001",
+      "vesha_ids": ["vesha_006", "vesha_007"],
+      "awards": ["Rajyotsava Award"],
+      "reference_links": {
+        "youtube": "https://www.youtube.com/results?search_query=Keremane+Shambhu+Hegde",
+        "mela_website": "https://simym.org"
+      }
+    },
+    {
+      "id": "artist_004",
+      "name_kannada": "ಕೆರೆಮನೆ ಶಿವಾನಂದ ಹೆಗಡೆ",
+      "name_english": "Keremane Shivananda Hegde",
+      "specialization": "Yakshagana Performer & Guru",
+      "district": "Uttara Kannada",
+      "years_active": 32,
+      "is_legendary": false,
+      "birth_year": 1970,
+      "death_year": null,
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/placeholder.png",
+      "bio_english": "Current torchbearer of the Idagunji Yakshagana tradition and known for mentoring young Yakshagana artists.",
+      "bio_kannada": "ಇಡಗುಂಜಿ ಯಕ್ಷಗಾನ ಪರಂಪರೆಯನ್ನು ಮುಂದುವರಿಸುತ್ತಿರುವ ಪ್ರಮುಖ ಕಲಾವಿದ ಮತ್ತು ಗುರು.",
+      "mela_id": "mela_001",
+      "vesha_ids": ["vesha_008", "vesha_009"],
+      "awards": ["State Cultural Award"],
+      "reference_links": {
+        "youtube": "https://www.youtube.com/results?search_query=Keremane+Shivananda+Hegde",
+        "mela_website": "https://simym.org"
+      }
+    },
+    {
+      "id": "artist_005",
+      "name_kannada": "ಕರ್ಕಿ ಕೃಷ್ಣ ಹಾಸ್ಯಗಾರ",
+      "name_english": "Karki Krishna Hasyagar",
+      "specialization": "Comedy Roles",
+      "district": "Uttara Kannada",
+      "years_active": 50,
+      "is_legendary": true,
+      "birth_year": 1928,
+      "death_year": 2003,
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/placeholder.png",
+      "bio_english": "One of the finest comedians in Yakshagana history, famous for spontaneous humor and audience interaction.",
+      "bio_kannada": "ಯಕ್ಷಗಾನ ಇತಿಹಾಸದ ಅತ್ಯುತ್ತಮ ಹಾಸ್ಯ ಕಲಾವಿದರಲ್ಲಿ ಒಬ್ಬರು.",
+      "mela_id": "mela_003",
+      "vesha_ids": ["vesha_010", "vesha_011"],
+      "awards": ["Karnataka State Award"],
+      "reference_links": {
+        "youtube": "https://www.youtube.com/results?search_query=Karki+Krishna+Hasyagar"
+      }
+    },
+    {
+      "id": "artist_006",
+      "name_kannada": "ಬಾಳಿಪ ನಾರಾಯಣ ಭಾಗವತ",
+      "name_english": "Balipa Narayana Bhagavatha",
+      "specialization": "Bhagavata",
+      "district": "Dakshina Kannada",
+      "years_active": 60,
+      "is_legendary": true,
+      "birth_year": 1931,
+      "death_year": 2016,
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/placeholder.png",
+      "bio_english": "Renowned Bhagavata known for his mastery in Yakshagana music and classical ragas.",
+      "bio_kannada": "ಯಕ್ಷಗಾನ ಸಂಗೀತ ಮತ್ತು ರಾಗಗಳಲ್ಲಿ ಅಪಾರ ಪಾಂಡಿತ್ಯ ಹೊಂದಿದ ಪ್ರಸಿದ್ಧ ಭಾಗವತ.",
+      "mela_id": "mela_004",
+      "vesha_ids": ["vesha_012"],
+      "awards": ["Rajyotsava Award"],
+      "reference_links": {
+        "youtube": "https://www.youtube.com/results?search_query=Balipa+Narayana+Bhagavatha"
+      }
+    },
+    {
+      "id": "artist_007",
+      "name_kannada": "ಸೂರಿಕುಮೇರು ಗೋವಿಂದ ಭಟ್",
+      "name_english": "Soorikumeru Govinda Bhat",
+      "specialization": "Character Artist",
+      "district": "Dakshina Kannada",
+      "years_active": 48,
+      "is_legendary": true,
+      "birth_year": 1952,
+      "death_year": null,
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/placeholder.png",
+      "bio_english": "Known for intense character portrayals and expressive acting in traditional Yakshagana roles.",
+      "bio_kannada": "ಅಭಿನಯ ಮತ್ತು ಪಾತ್ರ ನಿರ್ವಹಣೆಯಲ್ಲಿ ವಿಶಿಷ್ಟ ಶೈಲಿಗೆ ಪ್ರಸಿದ್ಧ ಕಲಾವಿದ.",
+      "mela_id": "mela_005",
+      "vesha_ids": ["vesha_013", "vesha_014"],
+      "awards": ["Yakshagana Academy Award"],
+      "reference_links": {
+        "youtube": "https://www.youtube.com/results?search_query=Soorikumeru+Govinda+Bhat"
+      }
+    },
+    {
+      "id": "artist_008",
+      "name_kannada": "ಕಾಳಿಂಗ ನಾವಡ",
+      "name_english": "Kalinga Navada",
+      "specialization": "Chande Artist",
+      "district": "Udupi",
+      "years_active": 40,
+      "is_legendary": true,
+      "birth_year": 1950,
+      "death_year": null,
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/placeholder.png",
+      "bio_english": "Legendary Chande maestro who revolutionized Yakshagana percussion performance.",
+      "bio_kannada": "ಯಕ್ಷಗಾನ ಚಂಡೆ ವಾದನಕ್ಕೆ ಹೊಸ ದಿಕ್ಕು ನೀಡಿದ ಮಹಾನ್ ಕಲಾವಿದ.",
+      "mela_id": "mela_006",
+      "vesha_ids": [],
+      "awards": ["State Award", "Yakshagana Academy Recognition"],
+      "reference_links": {
+        "youtube": "https://www.youtube.com/results?search_query=Kalinga+Navada"
+      }
+    },
+    {
+      "id": "artist_009",
+      "name_kannada": "ಉಪ್ಪೂರು ನರನಪ್ಪ",
+      "name_english": "Naranappa Uppoor",
+      "specialization": "Bhagavata",
+      "district": "Udupi",
+      "years_active": 52,
+      "is_legendary": true,
+      "birth_year": 1926,
+      "death_year": 2009,
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/placeholder.png",
+      "bio_english": "A respected Bhagavata whose singing style influenced generations of Yakshagana musicians.",
+      "bio_kannada": "ಅನೇಕ ತಲೆಮಾರಿನ ಯಕ್ಷಗಾನ ಸಂಗೀತಗಾರರಿಗೆ ಪ್ರೇರಣೆಯಾದ ಭಾಗವತ.",
+      "mela_id": "mela_007",
+      "vesha_ids": ["vesha_015"],
+      "awards": ["Karnataka Rajyotsava Award"],
+      "reference_links": {
+        "youtube": "https://www.youtube.com/results?search_query=Naranappa+Uppoor"
+      }
+    },
+    {
+      "id": "artist_010",
+      "name_kannada": "ಪುತ್ತೂರು ಶ್ರೀಧರ ಭಂಡಾರಿ",
+      "name_english": "Puttur Shridhara Bhandary",
+      "specialization": "Tenkutittu Yakshagana Artist",
+      "district": "Dakshina Kannada",
+      "years_active": 44,
+      "is_legendary": false,
+      "birth_year": 1958,
+      "death_year": null,
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/placeholder.png",
+      "bio_english": "Popular Tenkutittu performer known for dynamic stage presence and innovative choreography.",
+      "bio_kannada": "ಚುರುಕಾದ ವೇದಿಕೆ ಪ್ರದರ್ಶನ ಮತ್ತು ನವೀನ ನೃತ್ಯ ಸಂಯೋಜನೆಗೆ ಪ್ರಸಿದ್ಧ ಕಲಾವಿದ.",
+      "mela_id": "mela_008",
+      "vesha_ids": ["vesha_016", "vesha_017"],
+      "awards": ["Yakshagana Academy Award"],
+      "reference_links": {
+        "youtube": "https://www.youtube.com/results?search_query=Puttur+Shridhara+Bhandary"
+      }
+    }
+  ]
+}
+

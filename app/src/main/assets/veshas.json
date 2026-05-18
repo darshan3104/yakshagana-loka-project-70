@@ -1,0 +1,919 @@
+{
+  "veshas": [
+    {
+      "id": "vesha_001",
+      "artist_id": "artist_001",
+      "basic_info": {
+        "role_name_english": "Krishna",
+        "role_name_kannada": "ಕೃಷ್ಣ",
+        "character_type": "Divine",
+        "vesha_category": "Pundu Vesha",
+        "style": "Badagutittu"
+      },
+      "performance_info": {
+        "prasanga": "Kurukshetra",
+        "emotion_style": "Calm and Divine",
+        "performance_duration_minutes": 180,
+        "first_performed_year": 1985,
+        "performance_regions": [
+          "Udupi",
+          "Dakshina Kannada"
+        ]
+      },
+      "visual_design": {
+        "dominant_colors": [
+          "Blue",
+          "Yellow",
+          "Gold"
+        ],
+        "costume_description": "Peacock feather crown, blue facial tone, yellow silk dhoti, golden ornaments and divine makeup.",
+        "makeup_style": "Divine facial makeup with tilaka and soft eye detailing",
+        "ornaments": [
+          "Peacock Crown",
+          "Golden Necklace",
+          "Flute",
+          "Armlets"
+        ]
+      },
+      "media_assets": {
+        "images": [
+          {
+            "url": "https://storage.googleapis.com/yakshagana-loka/veshas/krishna/img1.jpg",
+            "caption": "Krishna Vesha during Kurukshetra performance",
+            "photographer": "Raghavendra Udupi",
+            "year": 2022,
+            "license": "CC BY-SA 4.0"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Yakshagana Krishna Veshas",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=yakshagana+krishna+vesha",
+            "source": "Public Archive",
+            "duration": "01:32:10"
+          }
+        ],
+        "audio_bgms": [
+          {
+            "title": "Krishna Entry BGM",
+            "url": "https://storage.googleapis.com/yakshagana-loka/audio/krishna_bgm.mp3",
+            "duration": "02:14"
+          }
+        ]
+      },
+      "cultural_context": {
+        "mythology_source": "Mahabharata",
+        "associated_region": "Karnataka",
+        "symbolism": "Represents divine wisdom and dharma",
+        "community_significance": "Highly revered divine character in Yakshagana performances"
+      },
+      "artist_lineage": {
+        "guru": "Dr. Kota Shivaram Karanth",
+        "school": "Yakshagana Kendra",
+        "generation": "2nd Generation Performer"
+      },
+      "ai_metadata": {
+        "emotion_labels": [
+          "divine",
+          "peaceful",
+          "heroic"
+        ],
+        "pose_type": "standing",
+        "weapon_presence": false,
+        "visual_complexity": "high",
+        "face_paint_complexity": "medium",
+        "cultural_significance_score": 9.8
+      },
+      "tags": [
+        "Mahabharata",
+        "Krishna",
+        "Divine",
+        "Hero"
+      ]
+    },
+    {
+      "id": "vesha_002",
+      "artist_id": "artist_002",
+      "basic_info": {
+        "role_name_english": "Ravana",
+        "role_name_kannada": "ರಾವಣ",
+        "character_type": "Villain",
+        "vesha_category": "Rakshasa Vesha",
+        "style": "Badagutittu"
+      },
+      "performance_info": {
+        "prasanga": "Lanka Dahana",
+        "emotion_style": "Fury and Dominance",
+        "performance_duration_minutes": 240,
+        "first_performed_year": 1979,
+        "performance_regions": [
+          "Mangaluru",
+          "Udupi"
+        ]
+      },
+      "visual_design": {
+        "dominant_colors": [
+          "Black",
+          "Red",
+          "Gold"
+        ],
+        "costume_description": "Large rakshasa crown with demon makeup and giant shoulder armor.",
+        "makeup_style": "Rakshasa makeup with black-red detailing and fierce eye extensions",
+        "ornaments": [
+          "Ten-headed Crown Design",
+          "Heavy Waist Belt",
+          "Demon Armor"
+        ]
+      },
+      "media_assets": {
+        "images": [
+          {
+            "url": "https://storage.googleapis.com/yakshagana-loka/veshas/ravana/img1.jpg",
+            "caption": "Ravana Vesha during Lanka Dahana",
+            "photographer": "Manjunath Puttur",
+            "year": 2021,
+            "license": "CC BY-SA 4.0"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Ravana Yakshagana Performance",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=yakshagana+ravana+vesha",
+            "source": "Public Archive",
+            "duration": "02:12:40"
+          }
+        ],
+        "audio_bgms": [
+          {
+            "title": "Ravana War Theme",
+            "url": "https://storage.googleapis.com/yakshagana-loka/audio/ravana_bgm.mp3",
+            "duration": "03:05"
+          }
+        ]
+      },
+      "cultural_context": {
+        "mythology_source": "Ramayana",
+        "associated_region": "Coastal Karnataka",
+        "symbolism": "Represents arrogance, power and destruction",
+        "community_significance": "One of the most visually grand villain veshas"
+      },
+      "artist_lineage": {
+        "guru": "Keremane Shambhu Hegde",
+        "school": "Idagunji Yakshagana Mandali",
+        "generation": "3rd Generation Performer"
+      },
+      "ai_metadata": {
+        "emotion_labels": [
+          "aggressive",
+          "dominant",
+          "furious"
+        ],
+        "pose_type": "battle stance",
+        "weapon_presence": true,
+        "visual_complexity": "very_high",
+        "face_paint_complexity": "high",
+        "cultural_significance_score": 9.7
+      },
+      "tags": [
+        "Ramayana",
+        "Ravana",
+        "Rakshasa",
+        "Villain"
+      ]
+    },
+    {
+      "id": "vesha_003",
+      "artist_id": "artist_003",
+      "basic_info": {
+        "role_name_english": "Hanuman",
+        "role_name_kannada": "ಹನುಮಂತ",
+        "character_type": "Divine",
+        "vesha_category": "Vanara Vesha",
+        "style": "Tenkutittu"
+      },
+      "performance_info": {
+        "prasanga": "Sundarakanda",
+        "emotion_style": "Devotion and Strength",
+        "performance_duration_minutes": 180,
+        "first_performed_year": 1990,
+        "performance_regions": [
+          "Dakshina Kannada",
+          "Kasaragod"
+        ]
+      },
+      "visual_design": {
+        "dominant_colors": [
+          "Orange",
+          "White"
+        ],
+        "costume_description": "Monkey-faced divine costume with gada and devotional ornaments.",
+        "makeup_style": "Vanara makeup with expressive eyes",
+        "ornaments": [
+          "Gada",
+          "Tail",
+          "Chest Armor"
+        ]
+      },
+      "media_assets": {
+        "images": [
+          {
+            "url": "https://storage.googleapis.com/yakshagana-loka/veshas/hanuman/img1.jpg",
+            "caption": "Hanuman Vesha during Sundarakanda",
+            "photographer": "Ganesh Salian",
+            "year": 2020,
+            "license": "CC BY-SA 4.0"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Hanuman Yakshagana Performance",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=yakshagana+hanuman+vesha",
+            "source": "Public Archive",
+            "duration": "01:40:25"
+          }
+        ],
+        "audio_bgms": [
+          {
+            "title": "Hanuman Devotional Theme",
+            "url": "https://storage.googleapis.com/yakshagana-loka/audio/hanuman_bgm.mp3",
+            "duration": "02:44"
+          }
+        ]
+      },
+      "cultural_context": {
+        "mythology_source": "Ramayana",
+        "associated_region": "Coastal Karnataka",
+        "symbolism": "Represents devotion, strength and loyalty",
+        "community_significance": "Popular among devotional Yakshagana performances"
+      },
+      "artist_lineage": {
+        "guru": "Chittani Ramachandra Hegde",
+        "school": "Yakshagana Training Centre",
+        "generation": "2nd Generation Performer"
+      },
+      "ai_metadata": {
+        "emotion_labels": [
+          "devotional",
+          "strong",
+          "heroic"
+        ],
+        "pose_type": "dynamic",
+        "weapon_presence": true,
+        "visual_complexity": "medium",
+        "face_paint_complexity": "medium",
+        "cultural_significance_score": 9.6
+      },
+      "tags": [
+        "Hanuman",
+        "Ramayana",
+        "Devotion",
+        "Strength"
+      ]
+    },
+    {
+      "id": "vesha_004",
+      "artist_id": "artist_004",
+      "basic_info": {
+        "role_name_english": "Arjuna",
+        "role_name_kannada": "ಅರ್ಜುನ",
+        "character_type": "Hero",
+        "vesha_category": "Raja Vesha",
+        "style": "Badagutittu"
+      },
+      "performance_info": {
+        "prasanga": "Subhadra Kalyana",
+        "emotion_style": "Heroic and Romantic",
+        "performance_duration_minutes": 150,
+        "first_performed_year": 1982,
+        "performance_regions": [
+          "Udupi",
+          "Uttara Kannada"
+        ]
+      },
+      "visual_design": {
+        "dominant_colors": [
+          "Red",
+          "Gold",
+          "Green"
+        ],
+        "costume_description": "Kolu Kireeta (conical crown), red velvet chest guard, and silk kachche.",
+        "makeup_style": "Refined hero makeup with sharp eyebrow detailing",
+        "ornaments": [
+          "Kolu Kireeta",
+          "Golden Bow",
+          "Shoulder Guards",
+          "Necklaces"
+        ]
+      },
+      "media_assets": {
+        "images": [
+          {
+            "url": "https://storage.googleapis.com/yakshagana-loka/veshas/arjuna/img1.jpg",
+            "caption": "Arjuna in Raja Vesha attire",
+            "photographer": "Naveen Sagar",
+            "year": 2023,
+            "license": "CC BY-SA 4.0"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Arjuna Yakshagana Badagutittu",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=yakshagana+arjuna+vesha",
+            "source": "Public Archive",
+            "duration": "01:15:00"
+          }
+        ],
+        "audio_bgms": [
+          {
+            "title": "Arjuna Entry Theme",
+            "url": "https://storage.googleapis.com/yakshagana-loka/audio/arjuna_bgm.mp3",
+            "duration": "02:50"
+          }
+        ]
+      },
+      "cultural_context": {
+        "mythology_source": "Mahabharata",
+        "associated_region": "Coastal Karnataka",
+        "symbolism": "Symbol of focus, skill and chivalry",
+        "community_significance": "Classic representation of a warrior prince"
+      },
+      "artist_lineage": {
+        "guru": "Keremane Shivarama Hegde",
+        "school": "Idagunji Mela",
+        "generation": "2nd Generation Performer"
+      },
+      "ai_metadata": {
+        "emotion_labels": [
+          "heroic",
+          "focused",
+          "valiant"
+        ],
+        "pose_type": "archer stance",
+        "weapon_presence": true,
+        "visual_complexity": "high",
+        "face_paint_complexity": "medium",
+        "cultural_significance_score": 9.5
+      },
+      "tags": [
+        "Arjuna",
+        "Warrior",
+        "Mahabharata",
+        "Hero"
+      ]
+    },
+    {
+      "id": "vesha_005",
+      "artist_id": "artist_005",
+      "basic_info": {
+        "role_name_english": "Bheema",
+        "role_name_kannada": "ಭೀಮ",
+        "character_type": "Hero",
+        "vesha_category": "Bannada Vesha",
+        "style": "Tenkutittu"
+      },
+      "performance_info": {
+        "prasanga": "Gadhayuddha",
+        "emotion_style": "Fierce and Powerful",
+        "performance_duration_minutes": 210,
+        "first_performed_year": 1975,
+        "performance_regions": [
+          "Dakshina Kannada",
+          "Mangaluru"
+        ]
+      },
+      "visual_design": {
+        "dominant_colors": [
+          "Black",
+          "Red",
+          "White"
+        ],
+        "costume_description": "Large Bheemanumudi crown, thick black beard, and heavy mace.",
+        "makeup_style": "Intense facial patterns with white rice paste (chutti) work",
+        "ornaments": [
+          "Bheemanumudi",
+          "Gada",
+          "Chest Plates",
+          "Waist Belt"
+        ]
+      },
+      "media_assets": {
+        "images": [
+          {
+            "url": "https://storage.googleapis.com/yakshagana-loka/veshas/bheema/img1.jpg",
+            "caption": "Bheema with Gada in Tenkutittu style",
+            "photographer": "Suresh Puttur",
+            "year": 2021,
+            "license": "CC BY-SA 4.0"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Bheema Yakshagana Performance",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=yakshagana+bheema+vesha",
+            "source": "Public Archive",
+            "duration": "02:05:30"
+          }
+        ],
+        "audio_bgms": [
+          {
+            "title": "Bheema War Theme",
+            "url": "https://storage.googleapis.com/yakshagana-loka/audio/bheema_bgm.mp3",
+            "duration": "03:20"
+          }
+        ]
+      },
+      "cultural_context": {
+        "mythology_source": "Mahabharata",
+        "associated_region": "South Canara",
+        "symbolism": "Brute strength and protective justice",
+        "community_significance": "One of the most physically demanding roles"
+      },
+      "artist_lineage": {
+        "guru": "Kuriya Vithala Shastri",
+        "school": "Dharmasthala Mela",
+        "generation": "3rd Generation Performer"
+      },
+      "ai_metadata": {
+        "emotion_labels": [
+          "fierce",
+          "strong",
+          "determined"
+        ],
+        "pose_type": "combat stance",
+        "weapon_presence": true,
+        "visual_complexity": "very_high",
+        "face_paint_complexity": "high",
+        "cultural_significance_score": 9.7
+      },
+      "tags": [
+        "Bheema",
+        "Strength",
+        "Mahabharata",
+        "Fierce"
+      ]
+    },
+    {
+      "id": "vesha_006",
+      "artist_id": "artist_006",
+      "basic_info": {
+        "role_name_english": "Duryodhana",
+        "role_name_kannada": "ದುರ್ಯೋಧನ",
+        "character_type": "Villain",
+        "vesha_category": "Raja Vesha",
+        "style": "Badagutittu"
+      },
+      "performance_info": {
+        "prasanga": "Kurukshetra",
+        "emotion_style": "Arrogant and Tragic",
+        "performance_duration_minutes": 200,
+        "first_performed_year": 1980,
+        "performance_regions": [
+          "Kundapura",
+          "Udupi"
+        ]
+      },
+      "visual_design": {
+        "dominant_colors": [
+          "Red",
+          "Black",
+          "Gold"
+        ],
+        "costume_description": "Ornate Rajavesha crown with dark highlights in makeup to signify ego.",
+        "makeup_style": "Regal makeup with aggressive eye lines",
+        "ornaments": [
+          "Kolu Kireeta",
+          "Royal Mace",
+          "Jeweled Armlets",
+          "Golden Waistband"
+        ]
+      },
+      "media_assets": {
+        "images": [
+          {
+            "url": "https://storage.googleapis.com/yakshagana-loka/veshas/duryodhana/img1.jpg",
+            "caption": "Duryodhana in regal defiance",
+            "photographer": "Ashwin Kota",
+            "year": 2022,
+            "license": "CC BY-SA 4.0"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Duryodhana Yakshagana Badagutittu",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=yakshagana+duryodhana+vesha",
+            "source": "Public Archive",
+            "duration": "01:50:00"
+          }
+        ],
+        "audio_bgms": [
+          {
+            "title": "Duryodhana Court BGM",
+            "url": "https://storage.googleapis.com/yakshagana-loka/audio/duryodhana_bgm.mp3",
+            "duration": "02:55"
+          }
+        ]
+      },
+      "cultural_context": {
+        "mythology_source": "Mahabharata",
+        "associated_region": "Coastal Karnataka",
+        "symbolism": "Pride, envy and inevitable downfall",
+        "community_significance": "A role that requires great dialogue delivery skills"
+      },
+      "artist_lineage": {
+        "guru": "Dr. Kota Shivaram Karanth",
+        "school": "Saligrama Mela",
+        "generation": "2nd Generation Performer"
+      },
+      "ai_metadata": {
+        "emotion_labels": [
+          "arrogant",
+          "royal",
+          "tragic"
+        ],
+        "pose_type": "regal seated",
+        "weapon_presence": true,
+        "visual_complexity": "high",
+        "face_paint_complexity": "medium",
+        "cultural_significance_score": 9.4
+      },
+      "tags": [
+        "Duryodhana",
+        "Antagonist",
+        "Mahabharata",
+        "King"
+      ]
+    },
+    {
+      "id": "vesha_007",
+      "artist_id": "artist_007",
+      "basic_info": {
+        "role_name_english": "Abhimanyu",
+        "role_name_kannada": "ಅಭಿಮನ್ಯು",
+        "character_type": "Hero",
+        "vesha_category": "Pundu Vesha",
+        "style": "Tenkutittu"
+      },
+      "performance_info": {
+        "prasanga": "Abhimanyu Vadhe",
+        "emotion_style": "Youthful and Brave",
+        "performance_duration_minutes": 160,
+        "first_performed_year": 1992,
+        "performance_regions": [
+          "Mangaluru",
+          "Kasaragod"
+        ]
+      },
+      "visual_design": {
+        "dominant_colors": [
+          "Vibrant Red",
+          "Yellow",
+          "Silver"
+        ],
+        "costume_description": "Vibrant Pakdi (turban crown), lightweight warrior costume for fast dancing.",
+        "makeup_style": "Bright, youthful facial paint with lotus eye shapes",
+        "ornaments": [
+          "Pakdi Crown",
+          "Double Swords",
+          "Warrior Chest Shield",
+          "Anklets"
+        ]
+      },
+      "media_assets": {
+        "images": [
+          {
+            "url": "https://storage.googleapis.com/yakshagana-loka/veshas/abhimanyu/img1.jpg",
+            "caption": "Young Abhimanyu in the Chakravyuha",
+            "photographer": "Kartik Kateel",
+            "year": 2024,
+            "license": "CC BY-SA 4.0"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Abhimanyu Chakravyuha Performance",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=yakshagana+abhimanyu+vesha",
+            "source": "Public Archive",
+            "duration": "01:25:40"
+          }
+        ],
+        "audio_bgms": [
+          {
+            "title": "Abhimanyu War Entry",
+            "url": "https://storage.googleapis.com/yakshagana-loka/audio/abhimanyu_bgm.mp3",
+            "duration": "02:10"
+          }
+        ]
+      },
+      "cultural_context": {
+        "mythology_source": "Mahabharata",
+        "associated_region": "South Canara",
+        "symbolism": "Heroism and the tragedy of war",
+        "community_significance": "Famous for the dynamic 'Chakravyuha' dance sequences"
+      },
+      "artist_lineage": {
+        "guru": "Sheni Gopalakrishna Bhat",
+        "school": "Kateel Mela",
+        "generation": "3rd Generation Performer"
+      },
+      "ai_metadata": {
+        "emotion_labels": [
+          "brave",
+          "youthful",
+          "heroic"
+        ],
+        "pose_type": "leaping dance",
+        "weapon_presence": true,
+        "visual_complexity": "medium",
+        "face_paint_complexity": "medium",
+        "cultural_significance_score": 9.6
+      },
+      "tags": [
+        "Abhimanyu",
+        "Youth",
+        "Mahabharata",
+        "Chakravyuha"
+      ]
+    },
+    {
+      "id": "vesha_008",
+      "artist_id": "artist_008",
+      "basic_info": {
+        "role_name_english": "Shurpanakha",
+        "role_name_kannada": "ಶೂರ್ಪನಖಿ",
+        "character_type": "Villain",
+        "vesha_category": "Hennubanna",
+        "style": "Tenkutittu"
+      },
+      "performance_info": {
+        "prasanga": "Panchavati",
+        "emotion_style": "Lust and Revenge",
+        "performance_duration_minutes": 140,
+        "first_performed_year": 1988,
+        "performance_regions": [
+          "Udupi",
+          "Dakshina Kannada"
+        ]
+      },
+      "visual_design": {
+        "dominant_colors": [
+          "Black",
+          "Red",
+          "Deep Green"
+        ],
+        "costume_description": "Demoness makeup with fierce eye paint, black sari with tribal ornaments.",
+        "makeup_style": "Fierce female demon (Hennubanna) style with tusks",
+        "ornaments": [
+          "Demon Hairpin",
+          "Bone Necklaces",
+          "Iron Armlets"
+        ]
+      },
+      "media_assets": {
+        "images": [
+          {
+            "url": "https://storage.googleapis.com/yakshagana-loka/veshas/shurpanakha/img1.jpg",
+            "caption": "Shurpanakha in demonic form",
+            "photographer": "Vinay Sulya",
+            "year": 2021,
+            "license": "CC BY-SA 4.0"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Shurpanakha Yakshagana Performance",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=yakshagana+shurpanakha+vesha",
+            "source": "Public Archive",
+            "duration": "01:10:00"
+          }
+        ],
+        "audio_bgms": [
+          {
+            "title": "Shurpanakha Theme",
+            "url": "https://storage.googleapis.com/yakshagana-loka/audio/shurpanakha_bgm.mp3",
+            "duration": "02:30"
+          }
+        ]
+      },
+      "cultural_context": {
+        "mythology_source": "Ramayana",
+        "associated_region": "Coastal Karnataka",
+        "symbolism": "Instigator of conflict and uncontrolled desire",
+        "community_significance": "A key transformative role often requiring prosthetic nose removal"
+      },
+      "artist_lineage": {
+        "guru": "Chittani Ramachandra Hegde",
+        "school": "Yakshagana Training Center",
+        "generation": "2nd Generation Performer"
+      },
+      "ai_metadata": {
+        "emotion_labels": [
+          "furious",
+          "vengeful",
+          "grotesque"
+        ],
+        "pose_type": "crouched",
+        "weapon_presence": false,
+        "visual_complexity": "high",
+        "face_paint_complexity": "high",
+        "cultural_significance_score": 9.2
+      },
+      "tags": [
+        "Shurpanakha",
+        "Ramayana",
+        "Rakshasi",
+        "Antagonist"
+      ]
+    },
+    {
+      "id": "vesha_009",
+      "artist_id": "artist_009",
+      "basic_info": {
+        "role_name_english": "Jatayu",
+        "role_name_kannada": "ಜಟಾಯು",
+        "character_type": "Divine",
+        "vesha_category": "Pakshi Vesha",
+        "style": "Badagutittu"
+      },
+      "performance_info": {
+        "prasanga": "Jatayu Vadhe",
+        "emotion_style": "Heroic and Sacrificial",
+        "performance_duration_minutes": 120,
+        "first_performed_year": 1995,
+        "performance_regions": [
+          "Honnavar",
+          "Kumta"
+        ]
+      },
+      "visual_design": {
+        "dominant_colors": [
+          "Brown",
+          "Golden",
+          "Red"
+        ],
+        "costume_description": "Bird-like beak, large functional wings attached to arms, feathered appearance.",
+        "makeup_style": "Avian facial patterns with prominent beak focus",
+        "ornaments": [
+          "Beak mask",
+          "Wing Props",
+          "Claw-like accessories"
+        ]
+      },
+      "media_assets": {
+        "images": [
+          {
+            "url": "https://storage.googleapis.com/yakshagana-loka/veshas/jatayu/img1.jpg",
+            "caption": "Jatayu attempting to stop Ravana",
+            "photographer": "Manjunath Bhat",
+            "year": 2023,
+            "license": "CC BY-SA 4.0"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Jatayu Yakshagana Performance",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=yakshagana+jatayu+vesha",
+            "source": "Public Archive",
+            "duration": "01:05:20"
+          }
+        ],
+        "audio_bgms": [
+          {
+            "title": "Jatayu Flight Theme",
+            "url": "https://storage.googleapis.com/yakshagana-loka/audio/jatayu_bgm.mp3",
+            "duration": "02:40"
+          }
+        ]
+      },
+      "cultural_context": {
+        "mythology_source": "Ramayana",
+        "associated_region": "Coastal Karnataka",
+        "symbolism": "Selfless sacrifice and bravery",
+        "community_significance": "Visually unique due to the use of wings in dance"
+      },
+      "artist_lineage": {
+        "guru": "Keremane Shambhu Hegde",
+        "school": "Idagunji Mela",
+        "generation": "3rd Generation Performer"
+      },
+      "ai_metadata": {
+        "emotion_labels": [
+          "sacrificial",
+          "heroic",
+          "valiant"
+        ],
+        "pose_type": "wings spread",
+        "weapon_presence": false,
+        "visual_complexity": "very_high",
+        "face_paint_complexity": "medium",
+        "cultural_significance_score": 9.4
+      },
+      "tags": [
+        "Jatayu",
+        "Ramayana",
+        "Bird",
+        "Sacrifice"
+      ]
+    },
+    {
+      "id": "vesha_010",
+      "artist_id": "artist_010",
+      "basic_info": {
+        "role_name_english": "Vali",
+        "role_name_kannada": "ವಾಲಿ",
+        "character_type": "Complex",
+        "vesha_category": "Vanara Vesha",
+        "style": "Tenkutittu"
+      },
+      "performance_info": {
+        "prasanga": "Vali Vadhe",
+        "emotion_style": "Arrogant yet Noble",
+        "performance_duration_minutes": 180,
+        "first_performed_year": 1983,
+        "performance_regions": [
+          "Puttur",
+          "Vittla"
+        ]
+      },
+      "visual_design": {
+        "dominant_colors": [
+          "Orange",
+          "Golden",
+          "Red"
+        ],
+        "costume_description": "Monkey crown (Vanara Mudi) with orange fur highlights and regal ornaments.",
+        "makeup_style": "Fierce Vanara face with prominent white whiskers",
+        "ornaments": [
+          "Vanara Kireeta",
+          "Tail",
+          "Golden Neckpiece",
+          "Mace"
+        ]
+      },
+      "media_assets": {
+        "images": [
+          {
+            "url": "https://storage.googleapis.com/yakshagana-loka/veshas/vali/img1.jpg",
+            "caption": "Vali in the forest of Kishkindha",
+            "photographer": "Siddharth Rai",
+            "year": 2022,
+            "license": "CC BY-SA 4.0"
+          }
+        ],
+        "videos": [
+          {
+            "title": "Vali Vadhe Yakshagana Tenkutittu",
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/results?search_query=yakshagana+vali+vesha",
+            "source": "Public Archive",
+            "duration": "02:15:00"
+          }
+        ],
+        "audio_bgms": [
+          {
+            "title": "Vali War Theme",
+            "url": "https://storage.googleapis.com/yakshagana-loka/audio/vali_bgm.mp3",
+            "duration": "03:15"
+          }
+        ]
+      },
+      "cultural_context": {
+        "mythology_source": "Ramayana",
+        "associated_region": "Coastal Karnataka",
+        "symbolism": "Unrivaled power and the moral ambiguity of karma",
+        "community_significance": "A role that often features high-intensity physical wrestling"
+      },
+      "artist_lineage": {
+        "guru": "Balipa Narayana Bhagavatha",
+        "school": "Dharmasthala Mela",
+        "generation": "2nd Generation Performer"
+      },
+      "ai_metadata": {
+        "emotion_labels": [
+          "powerful",
+          "arrogant",
+          "aggrieved"
+        ],
+        "pose_type": "dynamic wrestling",
+        "weapon_presence": true,
+        "visual_complexity": "high",
+        "face_paint_complexity": "medium",
+        "cultural_significance_score": 9.5
+      },
+      "tags": [
+        "Vali",
+        "Ramayana",
+        "Vanara",
+        "Strength"
+      ]
+    }
+  ]
+}
