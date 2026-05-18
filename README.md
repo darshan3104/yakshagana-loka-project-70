@@ -1,6 +1,6 @@
 # Yakshagana Loka: A Digital Framework for the Preservation and Promotion of Traditional Folk Theatre
 
-**Abstract**—This report details the design and implementation of *Yakshagana Loka*, a modern mobile application developed to preserve and promote Yakshagana, a traditional folk theatre of Karnataka, India. Leveraging state-of-the-art technologies including Android Jetpack Compose, Firebase, and Google Gemini AI, the platform provides a comprehensive ecosystem for enthusiasts to track performances, discover artists, and engage with scholarly interpretations of dialogues. The system integrates real-time geospatial data with generative AI to bridge the gap between traditional art forms and modern digital consumers.
+**Abstract**—This report details the design and implementation of *Yakshagana Loka*, a modern mobile application developed to preserve and promote Yakshagana, a traditional folk theatre of Karnataka, India. Leveraging state-of-the-art technologies including Android Jetpack Compose, Firebase Authentication, and OpenRouter AI, the platform provides a comprehensive ecosystem for enthusiasts to track performances, discover artists, and engage with scholarly interpretations of dialogues. The system integrates real-time geospatial data with generative AI to bridge the gap between traditional art forms and modern digital consumers.
 
 ---
 
@@ -18,8 +18,8 @@ Business logic is encapsulated within **Use Cases**, promoting a decoupled archi
 
 ### C. Data Layer
 The application utilizes a multi-source data strategy:
-- **Remote Persistence:** Firebase Firestore serves as the primary real-time database for performance events and artist data.
-- **Local Source:** Static assets in JSON format are used for initial data population via a dedicated **WorkManager** seeding process.
+- **Authentication:** Firebase Auth serves as the primary system for user accounts and identity.
+- **Local Source:** An offline-first approach where static assets in JSON format are used for all cultural content, ensuring immediate availability.
 - **Media Hosting:** Firebase Storage is utilized for hosting high-resolution images and audio clips.
 
 ## III. Technical Implementation
@@ -28,7 +28,7 @@ The application utilizes a multi-source data strategy:
 **Hilt** is implemented to manage dependency lifecycles across the application, significantly reducing boilerplate code and enhancing modularity.
 
 ### B. Artificial Intelligence Integration
-A core innovation is the integration of the **Gemini 1.5 Flash** model. By utilizing generative AI, the application provides real-time "Dialogue Explanations." This feature analyzes Talamaddale (dialogue-centric) transcripts and generates cultural and narrative contexts, making the art form more accessible to non-experts.
+A core innovation is the integration of **OpenRouter REST APIs** (utilizing models like GPT-4o-mini). By utilizing generative AI, the application provides real-time "Dialogue Explanations." This feature analyzes Talamaddale (dialogue-centric) transcripts and generates cultural and narrative contexts, making the art form more accessible to non-experts.
 
 ### C. Media and Geospatial Services
 - **Media3 (ExoPlayer):** Provides a robust foundation for the 'Talamaddale Radio' feature, supporting high-fidelity audio playback.
@@ -36,7 +36,7 @@ A core innovation is the integration of the **Gemini 1.5 Flash** model. By utili
 
 ## IV. Key Features
 
-1. **Tonight's Shows:** A dynamic listing of performances scheduled for the current date, synchronized with the Firestore backend.
+1. **Tonight's Shows:** A dynamic listing of performances scheduled for the current date, backed by local offline JSON data with smart fallbacks.
 2. **Artist Directory:** A comprehensive database containing profiles, specializations, and career achievements of legendary and contemporary artists.
 3. **Performance Map:** An interactive mapping interface that allows users to find venues geographically and navigate to show locations.
 4. **Talamaddale Radio & AI Scholar:** An audio streaming platform enhanced with an AI-driven scholar that explains complex mythological dialogues in simple English and Kannada.
@@ -50,8 +50,8 @@ A core innovation is the integration of the **Gemini 1.5 Flash** model. By utili
 - **Language:** Kotlin 2.x
 - **UI:** Jetpack Compose
 - **DI:** Dagger-Hilt
-- **Backend:** Firebase (Auth, Firestore, Storage)
-- **AI:** Google Generative AI SDK (Gemini)
+- **Backend:** Firebase (Auth, Storage)
+- **AI:** OpenRouter REST API via Retrofit
 - **Maps:** Google Maps Compose
 - **Media:** Android Media3
 
@@ -63,9 +63,9 @@ The project is organized into a modular package structure under `com.example.yak
 ├── data/
 │   ├── local/          # Asset-based JSON data sources
 │   ├── model/          # Core domain entities (Artist, Mela, etc.)
-│   ├── remote/         # Firebase Firestore implementation
+│   ├── remote/         # Firebase Auth & API service definitions
 │   ├── repository/     # Data abstraction layer
-│   └── worker/         # WorkManager seeding tasks
+│   └── worker/         # Background tasks
 ├── di/                 # Hilt dependency injection modules
 ├── domain/
 │   └── usecase/        # Pure business logic (e.g., SeedDataUseCase)
@@ -88,8 +88,8 @@ To deploy the *Yakshagana Loka* application in a development environment, follow
 ### A. Prerequisites
 - **Android Studio Koala** or newer.
 - **JDK 17** or higher.
-- A **Firebase Project** with Firestore and Storage enabled.
-- A **Google AI Studio** API key for Gemini 1.5 Flash.
+- A **Firebase Project** with Authentication and Storage enabled.
+- An **OpenRouter** API key.
 
 ### B. Configuration Steps
 1. **Clone the Repository:**
@@ -99,10 +99,10 @@ To deploy the *Yakshagana Loka* application in a development environment, follow
 2. **Firebase Integration:**
    - Place the `google-services.json` file provided by the Firebase Console into the `/app` directory.
 3. **API Key Setup:**
-   - Open the root `local.properties` file.
+   - Open the root `gradle.properties` file (create it if it doesn't exist).
    - Add the following entry:
      ```properties
-     GEMINI_API_KEY=your_actual_api_key_here
+     OPENROUTER_API_KEY="your_actual_api_key_here"
      ```
 4. **Build Process:**
    - Sync the project with Gradle files.
@@ -112,9 +112,9 @@ To deploy the *Yakshagana Loka* application in a development environment, follow
 
 [1] Android Developers, "Jetpack Compose Documentation," [Online]. Available: [https://developer.android.com/compose](https://developer.android.com/compose)
 
-[2] Firebase, "Cloud Firestore Documentation," [Online]. Available: [https://firebase.google.com/docs/firestore](https://firebase.google.com/docs/firestore)
+[2] OpenRouter, "API Documentation," [Online]. Available: [https://openrouter.ai/docs](https://openrouter.ai/docs)
 
-[3] Google AI Studio, "Generative AI SDK for Android," [Online]. Available: [https://ai.google.dev/](https://ai.google.dev/)
+[3] Retrofit, "Type-safe HTTP client for Android and Java," [Online]. Available: [https://square.github.io/retrofit/](https://square.github.io/retrofit/)
 
 [4] Android Developers, "Media3 ExoPlayer Guide," [Online]. Available: [https://developer.android.com/guide/topics/media/exoplayer](https://developer.android.com/guide/topics/media/exoplayer)
 
